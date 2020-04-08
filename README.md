@@ -1,5 +1,3 @@
-"# MSc_regresionlineal" 
-
 
 ### Proyecto de regresión lineal univariable ###
 
